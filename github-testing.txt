@@ -1,1 +1,3 @@
-testing text written from 'master'
+testing text written from 'master
+
+Testing git remote stuff'
